@@ -15,12 +15,12 @@ project是application的集合，app可以在projects間共用
 9. Response
 
 Html:
-<html>
+<!-- <html>
 <head>
 <!-- Metadata about the page-->
-</head>
+<!-- </head>
 <body>
 <!-- Display content of the page-->
-</body>
-</html>
-<!-- a is anchor,href = hypertext reference -->
+<!-- </body> -->
+<!-- </html> --> -->
+a is anchor,href = hypertext reference -->
