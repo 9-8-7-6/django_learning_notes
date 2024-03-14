@@ -16,7 +16,5 @@ project是application的集合，app可以在projects間共用
 
 Html:
 head:Metadata about the page
-
 body:Display content of the page
-
-<a is anchor,href = hypertext reference -->
+a is anchor,href = hypertext reference -->
